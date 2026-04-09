@@ -12,7 +12,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 <img align="right" width="500" src="https://tenor.com/view/usuwam-rajd-hakowanie-hacking-gif-26506302" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
 <ul>
   <li> 💻 I'm currently working for CHARLIE TECH </li>
   <li> 🎓 Self tought web/app developer inspired by changes </li>
