@@ -10,7 +10,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 ```
 
-<img align="right" width="500" src="https://tenor.com/view/usuwam-rajd-hakowanie-hacking-gif-26506302" />
 <br/>
 <ul>
   <li> 💻 I'm currently working for CHARLIE TECH </li>
